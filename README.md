@@ -1,7 +1,7 @@
 # dns-checker
 CMD DNS CHECKER
 
-ipconfig /flushdns (To Flush DNS Cache)
-nslookup domain.com
-ping domain.com
-tracert domain.com
+ipconfig /flushdns (To Flush DNS Cache)<br>
+nslookup domain.com<br>
+ping domain.com<br>
+tracert domain.com<br>
