@@ -1,5 +1,4 @@
-# dns-checker
-CMD DNS CHECKER
+# CMD DNS CHECKER
 
 ipconfig /flushdns (To Flush DNS Cache)<br>
 nslookup domain.com<br>
